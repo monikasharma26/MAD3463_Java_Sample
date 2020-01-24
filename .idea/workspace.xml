@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dca1e793-fc5f-4308-86e3-3814681c8be0" name="Default Changelist" comment="seco commit" />
+    <list default="true" id="dca1e793-fc5f-4308-86e3-3814681c8be0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +27,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -47,12 +52,28 @@
       <option name="presentableId" value="Default" />
       <updated>1579907266902</updated>
     </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <created>1579908129862</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579908129862</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="567" y="119" key="CommitChangelistDialog2" timestamp="1579908065089">
+    <state x="567" y="119" key="CommitChangelistDialog2" timestamp="1579908129674">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
-    <state x="567" y="119" key="CommitChangelistDialog2/0.23.1920.981@0.23.1920.981" timestamp="1579908065089" />
+    <state x="567" y="119" key="CommitChangelistDialog2/0.23.1920.981@0.23.1920.981" timestamp="1579908129674" />
+    <state x="560" y="254" key="Vcs.Push.Dialog.v2" timestamp="1579908133307">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state x="560" y="254" key="Vcs.Push.Dialog.v2/0.23.1920.981@0.23.1920.981" timestamp="1579908133307" />
   </component>
 </project>
